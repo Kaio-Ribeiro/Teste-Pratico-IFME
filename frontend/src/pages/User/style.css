@@ -1,0 +1,38 @@
+body {
+    background-color: #f6f7f9
+}
+
+.login-title {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.custom-badge {
+    background-color: #343a40 !important;
+    color: #fff;
+    font-size: 11px;
+    padding: 5px;
+    padding-left: 11px;
+    padding-right: 11px;
+    border-radius: 7px
+}
+
+.card {
+    border: none;
+    padding: 15px;
+    cursor: pointer
+}
+
+.time i {
+    color: #cacacaa3
+}
+
+.position-icons{
+    
+    display:flex;
+    justify-content:flex-end;
+    
+}
+.position-icons a{
+    margin-left: 12px;
+}

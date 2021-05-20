@@ -1,0 +1,66 @@
+.card-login {
+  width: 500px;
+  border-radius: .25rem;
+  background-color: #fff;
+  
+}
+
+.btr {
+  border-top-right-radius: 5px !important
+  
+}
+
+.btl {
+  border-top-left-radius: 5px !important
+}
+
+.center-button {
+  display: flex;
+  justify-content: center;
+}
+
+#btn-login {
+  width: 40%;
+  
+  
+}
+
+.nav-pills {
+  display: table !important;
+  width: 100%
+}
+
+.nav-pills .nav-link {
+  border-radius: 0px;
+  border-bottom: 1px solid #0d6efd40
+}
+
+.nav-item {
+  display: table-cell;
+  background: #0d6efd2e
+}
+
+.form {
+  padding: 10px;
+  height: 300px;
+}
+
+.form input {
+  margin-bottom: 12px;
+  border-radius: 3px
+}
+
+.form input:focus {
+  box-shadow: none
+}
+
+.form button {
+  margin-top: 20px
+}
+
+
+
+.arrow-left{
+  margin-left: 25px;
+  margin-top: 100px;
+}
